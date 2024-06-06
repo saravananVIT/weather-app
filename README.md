@@ -19,7 +19,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/YOUR_USERNAME/weather-app.git
+git clone https://github.com/saravananVIT/weather-app.git
 cd weather-app
 Install Dependencies
 
